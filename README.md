@@ -49,8 +49,8 @@ npm run dev
 
 Esse projeto foi desenvolvido com:
 
-* [NodeJS](https://nodejs.org/) - O framework web usado
-* [Vite](https://vitejs.dev/) - Gerente de Dependência
+* [NodeJS](https://nodejs.org/) - Plataforma para programação em JavaScript
+* [Vite](https://vitejs.dev/) - O framework web usado
 
  
 ## ✒️ Autores
