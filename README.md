@@ -47,7 +47,7 @@ npm run dev
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
+Esse projeto foi desenvolvido com:
 
 * [NodeJS](https://nodejs.org/) - O framework web usado
 * [Vite](https://vitejs.dev/) - Gerente de Dependência
