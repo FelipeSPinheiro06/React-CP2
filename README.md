@@ -44,6 +44,17 @@ E em seguida:
 npm run dev
 ```
 
+Para as extensões, digite isso no terminal:
+
+```
+npm install react-router-dom
+```
+
+E depois:
+
+```
+npm install styled-components
+```
 
 ## 🛠️ Construído com
 
